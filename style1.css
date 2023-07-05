@@ -1,0 +1,17 @@
+.d1 input{
+	width:100%;
+	background-color:dark gray;
+	
+
+}
+
+
+.d2 button{
+padding:10px 100px 10px 100px;
+	background-color:green;
+	width:100%;
+	color:white;
+	text-align:center;
+	border:none;
+}
+
